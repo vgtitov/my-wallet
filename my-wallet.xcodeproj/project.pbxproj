@@ -13,6 +13,7 @@
 		0B9DBF18250914310050399B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B9DBF17250914310050399B /* Assets.xcassets */; };
 		0B9DBF1B250914310050399B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B9DBF1A250914310050399B /* Preview Assets.xcassets */; };
 		0B9DBF1E250914310050399B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B9DBF1C250914310050399B /* LaunchScreen.storyboard */; };
+		0B9DBF2A250915690050399B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0B9DBF29250915690050399B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0B9DBF1A250914310050399B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0B9DBF1D250914310050399B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B9DBF1F250914310050399B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B9DBF29250915690050399B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0B9DBF1C250914310050399B /* LaunchScreen.storyboard */,
 				0B9DBF1F250914310050399B /* Info.plist */,
 				0B9DBF19250914310050399B /* Preview Content */,
+				0B9DBF29250915690050399B /* .gitignore */,
 			);
 			path = "my-wallet";
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B9DBF2A250915690050399B /* .gitignore in Resources */,
 				0B9DBF1E250914310050399B /* LaunchScreen.storyboard in Resources */,
 				0B9DBF1B250914310050399B /* Preview Assets.xcassets in Resources */,
 				0B9DBF18250914310050399B /* Assets.xcassets in Resources */,
